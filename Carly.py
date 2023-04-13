@@ -1,6 +1,6 @@
 #!/bin/python3
 
-hairstyles = ["bouffant", "pixie", "dreadlocks", "crew", "bowl", "bob", "mohawk", "flattop"]
+hairstyles = ["bouffant", "fade", "ceasercut", "tapercut", "lowfade", "middlefade", "mohawk", "hipster"]
 
 prices = [30, 25, 40, 20, 20, 35, 50, 35]
 
