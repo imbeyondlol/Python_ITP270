@@ -1,4 +1,4 @@
-#!bin/python3
+#!/bin/python3
 
 train_mass = 22680
 
